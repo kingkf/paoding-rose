@@ -10,7 +10,7 @@ repositories {
     mavenCentral()
 }
 dependencies {
-    compile "net.paoding:rose:1.2-SNAPSHOT"
-    compile "net.paoding:rose-jade:1.2-SNAPSHOT"
+    compile "net.paoding:paoding-rose:1.2-SNAPSHOT"
+    compile "net.paoding:paoding-rose-jade:1.2-SNAPSHOT"
     compile "sslext:sslext:1.10-4"
 }
